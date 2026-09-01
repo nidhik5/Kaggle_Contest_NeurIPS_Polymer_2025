@@ -22,6 +22,7 @@ Submissions are scored on a **weighted Mean Absolute Error (wMAE)** across the f
 ## Results
  
 - **Overall weighted MAE ≈ 0.031** (cross-validation).
+
 | Property | MAE |
 |----------|------|
 | Tg       | 7.39 |
